@@ -1,0 +1,6 @@
+{
+    "require": {
+        "intervention/image": "dev-master",
+        "laravel/ui": "^4.5"
+    }
+}
